@@ -62,9 +62,7 @@ Include screenshots of the website here to showcase the design and functionality
     ```
 5. **Create a Pull Request**: Open a pull request from your forked repository.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 
 
