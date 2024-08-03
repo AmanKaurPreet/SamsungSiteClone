@@ -66,12 +66,5 @@ Include screenshots of the website here to showcase the design and functionality
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
-
-For any questions or feedback, please reach out to:
-
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile](https://github.com/YourUsername)
 
 
