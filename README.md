@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/samsung-site-clone.git
+  https://github.com/AmanKaurPreet/SamsungSiteClone.git
     ```
 
 2. **Navigate to the project directory:**
@@ -74,23 +74,12 @@ We welcome contributions to improve the project. To contribute:
 
 5. **Create a Pull Request:** Go to the original repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
 - **Inspiration:** The design and functionality are inspired by the official Samsung website.
 - **Resources:** Utilized various online resources and documentation for guidance.
 
-## Contact
-
-For questions or feedback, please contact:
-
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
-
----
 
 Thank you for checking out the Samsung Site Clone project! Enjoy exploring the replica, and feel free to contribute or provide feedback.
 
