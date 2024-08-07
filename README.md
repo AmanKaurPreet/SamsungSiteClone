@@ -17,6 +17,12 @@ Welcome to the Samsung Site Clone project! This is a web development project tha
 - **JavaScript:** For interactive elements and dynamic content.
 - **Bootstrap:** (Optional) For additional styling and responsive grid system.
 
+
+## Live Demo
+
+You can view the live version of the Samsung Site Clone at [Samsung Site Clone Live Demo](https://amankaurpreet.github.io/SamsungSiteClone/).
+
+
 ## Installation
 
 To run this project locally, follow these steps:
